@@ -1,4 +1,4 @@
-# agentexperiences-com
+# Agent Experiences
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,129 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentexperiences-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentexperiences.com/
+Agent Experiences provides educational resources and consulting on Agent Experience Optimization (AXO) and Agentic Experience Design (AXD). Published by PrimeCo, the site offers guides, scoring tools, and analysis to help websites and applications become readable and actionable by AI agents, improving AI citation and discovery. It covers principles, architecture, and practical steps for optimizing content, structuring data, and designing interfaces that enable intelligent agents to interact with digital services on behalf of users.
+
+**Areas:** AI · Agent Experience · Optimization · Consulting · Technology
+
+## Agent Experiences on APIs.io
+
+Everything profiled for Agent Experiences is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentexperiences-com/](https://apis.io/providers/agentexperiences-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Agent Experiences API](https://apis.io/apis/agentexperiences-com/agent-experiences-api/) — AXO implementation guides by role – developer documentation for Agent Experiences.
+- [Agent Experiences API](https://apis.io/apis/agentexperiences-com/agentexperiences-com-api/) — Agent Experiences API as documented publicly: 6 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [GetApiV1UsersUseridResponse](https://apis.io/schemas/agentexperiences-com/agentexperiences-com-get-api-v1-users-userid-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentexperiences Com Context](https://apis.io/jsonld/agentexperiences-com/agentexperiences-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Agent Experiences API Rules](https://apis.io/rules/agentexperiences-com/agentexperiences-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentexperiences Com Authentication](https://apis.io/security/agentexperiences-com/agentexperiences-com-authentication/)
+- [Agentexperiences Com Domain Security](https://apis.io/security/agentexperiences-com/agentexperiences-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Agentexperiences Com Scopes](https://apis.io/scopes/agentexperiences-com/agentexperiences-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentexperiences Com Plans Pricing](https://apis.io/plans/agentexperiences-com/agentexperiences-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Agentexperiences Com Rate Limits](https://apis.io/rate-limits/agentexperiences-com/agentexperiences-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentexperiences.com/)
+- [Documentation](https://www.agentexperiences.com/websites/guides/developers)
+- [Getting started](https://www.agentexperiences.com/overview)
+- [Blog](https://www.agentexperiences.com/blog)
+- [Terms of service](https://www.agentexperiences.com/terms)
+- [Privacy policy](https://www.agentexperiences.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 37.1** — thin · rubric 0.26.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 45.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 22.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentexperiences-com/](https://apis.io/providers/agentexperiences-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agent Experiences: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentexperiences-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
