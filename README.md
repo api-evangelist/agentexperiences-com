@@ -66,7 +66,7 @@
 
 Agent Experiences provides educational resources and consulting on Agent Experience Optimization (AXO) and Agentic Experience Design (AXD). Published by PrimeCo, the site offers guides, scoring tools, and analysis to help websites and applications become readable and actionable by AI agents, improving AI citation and discovery. It covers principles, architecture, and practical steps for optimizing content, structuring data, and designing interfaces that enable intelligent agents to interact with digital services on behalf of users.
 
-**Areas:** AI · Agent Experience · Optimization · Consulting · Technology
+**Areas:** Artificial Intelligence · Agent Experience · Optimization · Consulting · Technology
 
 ## Agent Experiences on APIs.io
 
@@ -103,26 +103,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentexperiences Com Authentication](https://apis.io/security/agentexperiences-com/agentexperiences-com-authentication/)
-- [Agentexperiences Com Domain Security](https://apis.io/security/agentexperiences-com/agentexperiences-com-domain-security/)
+- [Agent Experiences Authentication](https://apis.io/security/agentexperiences-com/agentexperiences-com-authentication/)
+- [Agent Experiences Domain Security](https://apis.io/security/agentexperiences-com/agentexperiences-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentexperiences Com Scopes](https://apis.io/scopes/agentexperiences-com/agentexperiences-com-scopes/)
+- [Agent Experiences Scopes](https://apis.io/scopes/agentexperiences-com/agentexperiences-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentexperiences Com Plans Pricing](https://apis.io/plans/agentexperiences-com/agentexperiences-com-plans-pricing/)
+- [Agent Experiences Plans Pricing](https://apis.io/plans/agentexperiences-com/agentexperiences-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agentexperiences Com Rate Limits](https://apis.io/rate-limits/agentexperiences-com/agentexperiences-com-rate-limits/)
+- [Agent Experiences Rate Limits](https://apis.io/rate-limits/agentexperiences-com/agentexperiences-com-rate-limits/)
 
 ## Where to find this API
 
@@ -137,25 +137,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 37.1** — thin · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 25.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 45.0 |
-| Contract governance | 79.1 |
+| Discoverability | 64.3 |
+| Contract quality | 17.6 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 21.1 |
+| Access clarity | 31.9 |
 
-**Agent readiness 22.8** — agent-aware
+**Agent readiness 20.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -164,7 +164,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | — |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -174,8 +174,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 20.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentexperiences-com/](https://apis.io/providers/agentexperiences-com/).
 
